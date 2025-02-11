@@ -123,3 +123,19 @@ int main()
 
 [TOC]
 
+# 数学公式
+
+$$
+\frac{2}{3} \\
+\hat{y} \\
+\sum_{i=1}^{n}\\
+x^2 \\
+
+x^{’} = \left\{
+\begin{matrix}
+0 & \text 概率为p \\
+\frac{x}{1-p} & \text 其他
+\end{matrix}
+\right.
+$$
+
